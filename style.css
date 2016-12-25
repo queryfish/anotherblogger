@@ -1,8 +1,6 @@
 /* Blog */
 ul.posts
 {
-    /*margin: 200px auto 40px;*/
-    /*display: inline-block;*/
     width: 90%;
 }
 .post-date
@@ -10,12 +8,10 @@ ul.posts
     display: inline-block;
     vertical-align: top;
     font-family: Arial;
-    /*margin: 10px auto 40px;*/
     font-size: 1.4em;
     font-weight: bold;
     color: #1f1f1f;
     width: 20%;
-    /*text-align: inherit;*/
 }
 
 .post-content
@@ -31,11 +27,8 @@ ul.posts
     line-height: 1.8;
     font-family: "Helvetica Neue", Helvetica, Arial;
     text-rendering: optimizelegibility;
-    /*margin-bottom: 2em;*/
-    margin-top: 2px;
     font-weight: lighter;
     width: 70%;
 }
-/*ul.posts p { margin: 1px auto 40px; font-size: 1.2em;line-height: 1.8em; color: #333; }*/
+
 ul.posts li { list-style: none; }
-ul.posts p { margin-top: 1px ; }
