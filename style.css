@@ -4,6 +4,7 @@ h1.blogTitle
 {
     padding-left: 40px;
     font-family: PingFangSC-Regular, sans-serif;
+    font-size: 1.4em;
 }
 
 ul.posts
@@ -15,7 +16,7 @@ ul.posts
     display: inline-block;
     vertical-align: top;
     font-family: PingFangSC-Medium, sans-serif;
-    font-size: 1.4em;
+    font-size: 1.2em;
     color: #1f1f1f;
     width: 20%;
 }
