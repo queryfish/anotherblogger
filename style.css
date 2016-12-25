@@ -15,8 +15,8 @@ ul.posts
 {
     display: inline-block;
     vertical-align: top;
-    font-family: PingFangSC-Medium, sans-serif;
-    font-size: 1.2em;
+    font-family: PingFangSC-Regular, sans-serif;
+    font-size: 1.1em;
     color: #1f1f1f;
     width: 20%;
 }
@@ -30,8 +30,8 @@ ul.posts
     font-variant-numeric: normal;
     font-stretch: normal;
     font-size: 110%;
-    color: #1b1b1b;
-    line-height: 1.8;
+    color: #2c3139;
+    line-height: 1.8em;
     /*font-family: "Helvetica Neue";*/
     font-family: PingFangSC-Light, sans-serif;
     text-rendering: optimizelegibility;
