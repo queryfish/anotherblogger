@@ -1,4 +1,10 @@
 /* Blog */
+
+h1.blogTitle
+{
+    padding-left: 40px;
+}
+
 ul.posts
 {
     width: 90%;
