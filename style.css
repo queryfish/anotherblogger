@@ -31,10 +31,10 @@ ul.posts
     font-size: 110%;
     color: #1b1b1b;
     line-height: 1.8;
-    font-family: "Helvetica Neue", Helvetica, Arial;
+    font-family: "Helvetica Neue";
     text-rendering: optimizelegibility;
     font-weight: lighter;
     width: 60%;
 }
-
+/*font-family: "Helvetica Neue", Helvetica, Arial;*/
 ul.posts li { list-style: none; }
