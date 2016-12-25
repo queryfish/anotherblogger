@@ -31,7 +31,8 @@ ul.posts
     font-size: 110%;
     color: #1b1b1b;
     line-height: 1.8;
-    font-family: "Helvetica Neue";
+    /*font-family: "Helvetica Neue";*/
+    font-family: PingFangSC-Light, sans-serif;
     text-rendering: optimizelegibility;
     font-weight: lighter;
     width: 60%;
